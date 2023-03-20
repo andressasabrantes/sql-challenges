@@ -1,5 +1,5 @@
-//7 - Quero todas as pessoas pertencentes ao departamento 'Research and Development' e que eu possa futuramente trocar o departamento e fazer uma nova consulta sem precisar reescrever um novo codigo.
-
+/* 7 - Quero todas as pessoas pertencentes ao departamento 'Research and Development' e que eu possa futuramente trocar o departamento e fazer uma nova consulta sem precisar reescrever um novo codigo.
+ */
 
 CREATE OR ALTER PROCEDURE departmentPeople(@nameDepartment AS VARCHAR(60))
 AS
